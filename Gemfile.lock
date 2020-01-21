@@ -19,7 +19,7 @@ DEPENDENCIES
   sinatra (~> 1.4, >= 1.4.8)
 
 RUBY VERSION
-   ruby 1.9.3p551
+   ruby 2.7.0p0
 
 BUNDLED WITH
-   1.16.2
+   2.1.4
